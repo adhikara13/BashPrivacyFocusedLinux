@@ -1,4 +1,4 @@
-# PrivacyFocusedLinux
+# PrivacyFocusedLinux Bash Version
 
 An Ubuntu-Minimal script which keeps privacy and security in mind. Fully open-sourced and well-explained.
 This script was created by Zethius 'Skengman' Redacted using Python3. It automates the rather long and tedious process of enhancing privacy in this well used distribution by newcommers and veterans alike who care about their privacy and security online.
@@ -39,10 +39,6 @@ In addition to these tools, I would recommend installing some others.
 - Signal Desktop for an open source messaging procedure which is end to end encrypted.
 - BleachBit for maintenance.
 - VeraCrypt for document and drive encryption.
-
-For the script itself, look at 'PrivacyFocusedLinux.py'.
-
-Thanks!
 
 --------------------------------------------------
 Update: 29th June, 2020 - Update [1]
